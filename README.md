@@ -1,16 +1,16 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+SARKAR+BANDAHEALI;RELEASED+24-12-2024" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+KING+BANDAHEALI;RELEASED+24-12-2024" alt="Typing SVG" /></a>  
 
-  <a href="https://files.catbox.moe/s1q8so.jpeg">
+  <a href="https://files.catbox.moe/tupeus.jpg">
     <img alt="secktor docs" height="300" src="https://files.catbox.moe/s1q8so.jpeg">
     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=🙏+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢+⤵️)](https://git.io/typing-svg)
  <p align="lift">
- <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/fork"><img title="SARKAR-MD" src="https://img.shields.io/badge/FORK-SARKAR MD-h?color=green&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/pholi12/MASTER-XMD/fork"><img title="MUSTER-XMD" src="https://img.shields.io/badge/FORK-SARKAR MD-h?color=green&style=for-the-badge&logo=github"></a>
    
 <p align="lift">
-<a href="https://sarkar-md-session-generator.koyeb.app/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION-1-blue?style=for-the-badge&logo=koyeb"></a>
+<a href="https://pair-session.onrender.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION-1-blue?style=for-the-badge&logo=koyeb"></a>
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
@@ -41,10 +41,9 @@
   </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Bandaheali/Sarkar-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/pholi12/MASTER-XMD)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=DEPLOY+⤵️+ON+KOYEB)](https://git.io/typing-svg)
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/services/deploy?type=git&repository=github.com/bandaheali/Sarkar-MD&branch=main&name=bandaheali&builder=dockerfile&env[SESSION_ID]=&env[MODE]=public&env[PREFIX]=.&env[OWNER_NUMBER]=923253617422&env[OWNER_NAME]=Bandaheali&env[AUTO_REACT]=false&env[HEART_REACT]=false&env[OWNER_REACT]=true&env[REJECT_CALL]=true&env[AUTO_BIO]=true)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=CREATE+⤵️+ON+ACCOUNT)](https://git.io/typing-svg)
 <br>
