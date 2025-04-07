@@ -1,9 +1,9 @@
 {
-  "name":"ENZO",
-  "description":"Best whatsapp bot developed by ENZO",
+  "name":"MASTER-XMD",
+  "description":"Best whatsapp bot developed by Njabulo",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
-  "repository":"https://github.com/ENZOTECH2/ENZO-MD",
+  "logo":"https://files.catbox.moe/tupeus.jpg",
+  "repository":"https://github.com/pholi12/MASTER-XMD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+      "value":"MASTER-XMD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/qMvsxL8/1680858151-752-x-1584.jpg",
+      "value":"https://files.catbox.moe/tupeus.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
+    "value": "MPILO NKALA"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254784115308"
+    "value": "27 76 220 2898"
   },
     "WARN_COUNT":
   {
