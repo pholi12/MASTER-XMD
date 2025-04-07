@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+KING+BANDAHEALI;RELEASED+24-12-2024" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+KING+NKALA;RELEASED+24-12-2024" alt="Typing SVG" /></a>  
 
   <a href="https://files.catbox.moe/tupeus.jpg">
-    <img alt="secktor docs" height="300" src="https://files.catbox.moe/s1q8so.jpeg">
+    <img alt="secktor docs" height="300" src="https://files.catbox.moe/tupeus.jpg">
     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -47,9 +47,3 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=CREATE+⤵️+ON+ACCOUNT)](https://git.io/typing-svg)
 <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank">
-  <img alt='CREATE ACCOUNT' src='https://img.shields.io/badge/-CREATE_ACCOUNT-green?style=for-the-badge&logo=koyeb&logoColor=white'/>
-</a>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
